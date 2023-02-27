@@ -1,0 +1,28 @@
+.CurrentWeather a {
+    color: black;
+    text-decoration: none;
+}
+
+.CurrentWeather a:hover {
+    color: black;
+    text-decoration: underline;
+}
+
+.CurrentWeather .temperature {
+    font-size: 44px;
+}
+
+.CurrentWeather .active {
+    color: #7cb9ff;
+}
+
+.CurrentWeather .active:hover {
+    color: #7cb9ff;
+    text-decoration: none;
+    cursor: default;
+}
+
+.CurrentWeather .weatherIcon {
+    font-size: 60px;
+    text-align: center;
+}

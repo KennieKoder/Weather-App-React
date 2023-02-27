@@ -1,0 +1,9 @@
+.CurrentConditions {
+    text-align: center;
+}
+
+.CurrentConditions .feelsLike,
+.humidity,
+.wind {
+    display: block;
+}

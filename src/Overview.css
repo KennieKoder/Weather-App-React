@@ -1,0 +1,18 @@
+.Overview {
+    text-align: left;
+}
+
+.Overview .city,
+.currentDate,
+.weatherConditions {
+    display: block;
+}
+
+.Overview .city {
+    font-size: 30px;
+}
+
+.Overview .currentDate,
+.weatherConditions {
+    font-size: 16px;
+}

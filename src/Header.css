@@ -1,0 +1,20 @@
+.Header input {
+    border-radius: 3px;
+    color: rgb(38, 38, 38);
+    background-color: rgba(255, 255, 255, 0.817);
+    border: solid 1px rgb(38, 38, 38);
+    border-radius: 10px;
+}
+
+.Header button {
+    color: white;
+    background-color: #838383;
+    border: solid 1px rgb(38, 38, 38);
+    border-radius: 10px;
+    margin: 5px;
+    transition: all 200ms ease-in-out;
+}
+
+.Header button:hover {
+    background-color: #7cb9ff;
+}
